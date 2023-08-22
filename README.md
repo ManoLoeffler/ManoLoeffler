@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Minhas linguagem que manjo
+### Desenvolvimento / especialidades
 
 </div> 
   
@@ -28,7 +28,7 @@
 
 </div>
 <div align="center">
-<br><p align="centre"><b>Visitante no meu perfil</b></p>  
+<br><p align="centre"><b>Número de visitas no perfil</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{manoloeffler}/count.svg" /></p> 
 <br></div>
 
